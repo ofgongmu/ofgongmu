@@ -5,7 +5,7 @@ Java, Spring Boot, MySQL, Redis, Git, Github
 ## RECENT PROJECTS
 
 ### TEAM PROJECT REPOSITORY (2023.09 ~)
-https://github.com/devcisive/solumon-backend/tree/develop/solumon
+https://github.com/devcisive/solumon-backend/tree/develop/solumon-backend
 
 ### PERSONAL PROJECT REPOSITORY (2023.08 ~)
 https://github.com/ofgongmu/zerobase-personal-project-sns
