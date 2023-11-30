@@ -4,11 +4,11 @@ Java, Spring Boot, MySQL, Redis, Git, Github
 
 ## RECENT PROJECTS
 
-### TEAM PROJECT REPOSITORY (2023.09 ~)
-https://github.com/devcisive/solumon-backend/tree/develop/solumon-backend
+### APP PROJECT REPOSITORY (2023.11 ~) 
+https://github.com/eltese-code/backend/tree/develop
 
-### PERSONAL PROJECT REPOSITORY (2023.08 ~)
-https://github.com/ofgongmu/zerobase-personal-project-sns
+### TEAM PROJECT REPOSITORY (2023.09 ~ 2023.11)
+https://github.com/devcisive/solumon-backend/tree/develop/solumon-backend
 
 <!--
 **ofgongmu/ofgongmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
