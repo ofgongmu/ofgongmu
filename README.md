@@ -1,26 +1,18 @@
 ## TECH STACK
-Java, Spring Boot, MySQL, Redis, Git, Github 
+**BE** Java, Spring Security, Spring JPA, Spring Boot, MSSQL, MySQL, Redis
+
+**FE** Javascript, Vue.js
+
+**ETC** SVN, Git, Github 
 
 
-## RECENT PROJECTS
+## ONGOING PROJECTS
 
-### APP PROJECT REPOSITORY (2023.11 ~) 
-https://github.com/eltese-code/backend/tree/develop
+#### ADVENTURE (2025.05 ~)
+https://github.com/ofgongmu/adventure
 
-### TEAM PROJECT REPOSITORY (2023.09 ~ 2023.11)
+
+## PAST TEAM PROJECTS
+
+#### DEVCISIVE - SOLUMON (2023.09 ~ 2023.11)
 https://github.com/devcisive/solumon-backend/tree/develop/solumon-backend
-
-<!--
-**ofgongmu/ofgongmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
