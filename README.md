@@ -8,7 +8,7 @@
 
 ## ONGOING PROJECTS
 
-#### ADVENTURE (2025.05 ~)
+#### ADVENTURE (2025.11 ~)
 https://github.com/ofgongmu/adventure
 
 
